@@ -1,0 +1,33 @@
+{
+  "id": "2026-09-05-mclaren",
+  "date": "2026-09-05",
+  "theme": "product",
+  "layout": "full",
+  "product": {
+    "name": "Тениска ЩАСТИЕ SUMMER",
+    "reference_image": "/Users/soyanov/Desktop/ULLE/ulle-social-automation/assets/SHTASTIE SUMMER 1.jpg",
+    "print": "ЩАСТИЕ",
+    "price": "34,90 €",
+    "landing": "https://ulle.bg/pages/shtastie-summer",
+    "weight": 3
+  },
+  "scene": "studio_mclaren",
+  "copy": {
+    "post_title": "Оувърсайз кройка. Голямо присъствие.",
+    "caption": "100% памук, сингъл 240 гр, шито в нашия цех в Пловдив. Оувърсайз кройка, изпипана след ~15 проби.",
+    "hashtags": [
+      "ulle",
+      "юлле",
+      "оувърсайз",
+      "щастие",
+      "българскимарки",
+      "пловдив",
+      "streetwear"
+    ]
+  },
+  "link": "https://ulle.bg/pages/shtastie-summer",
+  "cta": "",
+  "platforms": [
+    "instagram"
+  ]
+}

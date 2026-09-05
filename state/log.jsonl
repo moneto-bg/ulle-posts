@@ -1,0 +1,50 @@
+{"ts": "2026-09-05T15:54:41", "event": "render_placeholder", "id": "ulle-bg-2026-09-wind_on_line-01", "reason": "no OPENAI_API_KEY"}
+{"ts": "2026-09-05T15:54:46", "event": "overlay_done", "id": "2026-09-05-01", "zone": "top_band"}
+{"ts": "2026-09-05T15:54:46", "event": "staged", "id": "2026-09-05-01", "scene": "wind_on_line", "real_render": false, "headline": "Оувърсайз, както трябва"}
+{"ts": "2026-09-05T16:05:20", "event": "render_placeholder", "id": "ulle-bg-2026-09-wind_on_line-01", "reason": "no OPENAI_API_KEY"}
+{"ts": "2026-09-05T16:05:24", "event": "overlay_done", "id": "2026-09-05-01", "zone": "top_band"}
+{"ts": "2026-09-05T16:05:24", "event": "staged", "id": "2026-09-05-01", "scene": "wind_on_line", "real_render": false, "headline": "Памук, който усещаш с пръсти"}
+{"ts": "2026-09-05T16:08:41", "event": "render_placeholder", "id": "ulle-bg-2026-09-wind_on_line-01", "reason": "no OPENAI_API_KEY"}
+{"ts": "2026-09-05T16:08:46", "event": "overlay_done", "id": "2026-09-05-01", "zone": "top_band"}
+{"ts": "2026-09-05T16:08:46", "event": "staged", "id": "2026-09-05-01", "scene": "wind_on_line", "real_render": false, "headline": "Лято в чист памук."}
+{"ts": "2026-09-05T16:09:01", "event": "overlay_done", "id": "2026-09-05-01", "zone": "top_band"}
+{"ts": "2026-09-05T16:12:34", "event": "render_placeholder", "id": "ulle-bg-2026-09-wind_on_line-01", "reason": "no OPENAI_API_KEY"}
+{"ts": "2026-09-05T16:12:39", "event": "overlay_done", "id": "2026-09-05-01", "zone": "top_band"}
+{"ts": "2026-09-05T16:12:39", "event": "staged", "id": "2026-09-05-01", "scene": "wind_on_line", "real_render": false, "headline": "Извиняваме се за забавянето. Очаквайте пратките си до 2 дни."}
+{"ts": "2026-09-05T16:13:03", "event": "overlay_done", "id": "2026-09-05-01", "zone": "top_band"}
+{"ts": "2026-09-05T16:13:06", "event": "overlay_done", "id": "2026-09-05-01", "zone": "top_band"}
+{"ts": "2026-09-05T16:13:08", "event": "overlay_done", "id": "2026-09-05-01", "zone": "top_band"}
+{"ts": "2026-09-05T16:19:10", "event": "render_placeholder", "id": "ulle-bg-2026-09-low_angle_sky-01", "reason": "no OPENAI_API_KEY"}
+{"ts": "2026-09-05T16:19:15", "event": "overlay_done", "id": "2026-09-05-01", "zone": "top_band"}
+{"ts": "2026-09-05T16:19:15", "event": "staged", "id": "2026-09-05-01", "scene": "low_angle_sky", "real_render": false, "headline": "Извиняваме се за забавянето. Очаквайте пратките си до 2 дни."}
+{"ts": "2026-09-05T16:24:33", "event": "render_placeholder", "id": "ulle-bg-2026-09-low_angle_sky-01", "reason": "no OPENAI_API_KEY"}
+{"ts": "2026-09-05T16:24:38", "event": "overlay_done", "id": "2026-09-05-01", "zone": "top_band"}
+{"ts": "2026-09-05T16:24:38", "event": "staged", "id": "2026-09-05-01", "scene": "low_angle_sky", "real_render": false, "headline": "Извиняваме се за забавянето. Очаквайте пратките си до 2 дни."}
+{"ts": "2026-09-05T16:27:28", "event": "render_placeholder", "id": "ulle-bg-2026-09-macro_puff-01", "reason": "no OPENAI_API_KEY"}
+{"ts": "2026-09-05T19:12:20", "event": "render_openai", "id": "ulle-bg-2026-09-low_angle_sky-01"}
+{"ts": "2026-09-05T19:13:15", "event": "overlay_done", "id": "2026-09-05-01", "zone": "top_band"}
+{"ts": "2026-09-05T19:13:15", "event": "staged", "id": "2026-09-05-01", "scene": "low_angle_sky", "layout": "full", "real_render": true, "headline": "Извиняваме се за забавянето. Очаквайте пратките си до 2 дни."}
+{"ts": "2026-09-05T19:20:38", "event": "bg_validation_warn", "id": "2026-09-05-01", "out": "rlay' (got None) — this skill never bakes text\nERROR /Users/soyanov/Desktop/ULLE/ulle-social-automation/state/queue/2026-09-05-01/bg.json: negative_prompt has no no-text clause (expected one of ['no text', 'text-free', 'text free', 'no words', 'no letters'])\n\n8 error(s) across 1 file(s). Not ready.\n"}
+{"ts": "2026-09-05T19:20:38", "event": "render_openai", "id": "ulle-bg-2026-09-low_angle_sky-01"}
+{"ts": "2026-09-05T19:21:31", "event": "overlay_done", "id": "2026-09-05-01", "zone": "top_band"}
+{"ts": "2026-09-05T19:21:31", "event": "staged", "id": "2026-09-05-01", "scene": "low_angle_sky", "layout": "full", "real_render": true, "headline": "Извиняваме се за забавянето. Очаквайте пратките си до 2 дни."}
+{"ts": "2026-09-05T19:22:25", "event": "bg_validation_warn", "id": "2026-09-05-01", "out": "rlay' (got None) — this skill never bakes text\nERROR /Users/soyanov/Desktop/ULLE/ulle-social-automation/state/queue/2026-09-05-01/bg.json: negative_prompt has no no-text clause (expected one of ['no text', 'text-free', 'text free', 'no words', 'no letters'])\n\n8 error(s) across 1 file(s). Not ready.\n"}
+{"ts": "2026-09-05T19:22:25", "event": "render_openai", "id": "ulle-bg-2026-09-low_angle_sky-01"}
+{"ts": "2026-09-05T19:22:40", "event": "bg_validation_warn", "id": "2026-09-05-01", "out": "rlay' (got None) — this skill never bakes text\nERROR /Users/soyanov/Desktop/ULLE/ulle-social-automation/state/queue/2026-09-05-01/bg.json: negative_prompt has no no-text clause (expected one of ['no text', 'text-free', 'text free', 'no words', 'no letters'])\n\n8 error(s) across 1 file(s). Not ready.\n"}
+{"ts": "2026-09-05T19:22:40", "event": "render_openai", "id": "ulle-bg-2026-09-low_angle_sky-01"}
+{"ts": "2026-09-05T19:24:16", "event": "overlay_done", "id": "2026-09-05-01", "zone": "top_band"}
+{"ts": "2026-09-05T19:24:16", "event": "staged", "id": "2026-09-05-01", "scene": "low_angle_sky", "layout": "full", "real_render": true, "headline": "Извиняваме се за забавянето. Очаквайте пратките си до 2 дни."}
+{"ts": "2026-09-05T19:26:47", "event": "bg_validation_warn", "id": "2026-09-05-01", "out": "rlay' (got None) — this skill never bakes text\nERROR /Users/soyanov/Desktop/ULLE/ulle-social-automation/state/queue/2026-09-05-01/bg.json: negative_prompt has no no-text clause (expected one of ['no text', 'text-free', 'text free', 'no words', 'no letters'])\n\n8 error(s) across 1 file(s). Not ready.\n"}
+{"ts": "2026-09-05T19:26:47", "event": "render_openai", "id": "ulle-bg-2026-09-golden_hour_backlight-01"}
+{"ts": "2026-09-05T19:28:20", "event": "staged", "id": "2026-09-05-01", "scene": "golden_hour_backlight", "layout": "clean", "real_render": true, "headline": "Памук, мек и въздушен. Свобода в движението."}
+{"ts": "2026-09-05T19:30:40", "event": "overlay_done", "id": "2026-09-05-01"}
+{"ts": "2026-09-05T19:36:04", "event": "bg_validation_warn", "id": "2026-09-05-01", "out": "rlay' (got None) — this skill never bakes text\nERROR /Users/soyanov/Desktop/ULLE/ulle-social-automation/state/queue/2026-09-05-01/bg.json: negative_prompt has no no-text clause (expected one of ['no text', 'text-free', 'text free', 'no words', 'no letters'])\n\n8 error(s) across 1 file(s). Not ready.\n"}
+{"ts": "2026-09-05T19:36:04", "event": "render_openai", "id": "ulle-bg-2026-09-golden_hour_backlight-01"}
+{"ts": "2026-09-05T19:37:43", "event": "overlay_done", "id": "2026-09-05-01"}
+{"ts": "2026-09-05T19:37:43", "event": "staged", "id": "2026-09-05-01", "scene": "golden_hour_backlight", "layout": "clean", "real_render": true, "headline": "Памук, мек и плътен. Щастие, в само две стъпки"}
+{"ts": "2026-09-05T19:40:35", "event": "render_openai", "id": "ulle-custom-mclaren-01"}
+{"ts": "2026-09-05T19:42:07", "event": "overlay_done", "id": "custom-mclaren"}
+{"ts": "2026-09-05T19:44:09", "event": "render_openai", "id": "ulle-custom-mclaren-02"}
+{"ts": "2026-09-05T19:45:41", "event": "overlay_done", "id": "custom-mclaren2"}
+{"ts": "2026-09-05T19:48:14", "event": "published", "id": "2026-09-05-mclaren", "results": "{\"instagram\": \"ok:17907739995501234\"}"}
+{"ts": "2026-09-05T21:33:29", "event": "skipped_not_scheduled", "local_time": "2026-09-05 03:00", "expected": "10:00,19:00"}

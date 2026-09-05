@@ -1,0 +1,21 @@
+<!doctype html>
+<meta charset="utf-8">
+<style>
+  html, body { margin: 0; padding: 0; }
+  .frame {
+    width: 1080px; height: 1350px; position: relative; overflow: hidden;
+    background-image: url("__BG_URI__");
+    background-size: cover; background-position: center;
+  }
+  /* Only the ULLE logo, top-centre. No other text on the image.
+     The source logo is black; render it white with a soft shadow so it reads
+     over both bright skies and dark scenes. */
+  .brandlogo {
+    position: absolute; top: __LOGO_TOP__px; left: 50%; transform: translateX(-50%);
+    width: __LOGO_W__px; height: auto;
+    filter: brightness(0) invert(1) drop-shadow(0 2px 16px rgba(0,0,0,0.55));
+  }
+</style>
+<div class="frame">
+  <img class="brandlogo" src="__LOGO_URI__" alt="ULLE">
+</div>

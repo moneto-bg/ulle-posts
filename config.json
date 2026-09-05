@@ -1,0 +1,98 @@
+{
+  "brand": "ULLE / Юлле",
+  "timezone": "Europe/Sofia",
+  "schedule": {
+    "times": ["10:00", "19:00"],
+    "posts_per_run": 1,
+    "_note": "Всеки ден, без почивен ден. Всеки час от times пуска по posts_per_run поста."
+  },
+
+  "platforms": ["instagram"],
+
+  "image_host": {
+    "type": "github",
+    "owner": "moneto-bg",
+    "repo": "ulle-posts",
+    "branch": "main",
+    "path": "posts",
+    "_note": "Публичен GitHub repo за IG картинките. Попълни owner+repo, а GITHUB_TOKEN сложи в .env."
+  },
+
+  "offers": [
+    { "headline": "Безплатна доставка с BoxNow.", "accent": "Безплатна доставка", "badge": "Доставка" },
+    { "headline": "Вземи две, спести 20%.", "accent": "спести 20%", "badge": "Оферта" }
+  ],
+  "offer": "Безплатна доставка с BoxNow",
+  "cta": "Поръчай от ulle.bg",
+  "link": "https://ulle.bg/pages/shtastie-summer",
+
+  "products": [
+    {
+      "name": "Тениска ЩАСТИЕ SUMMER",
+      "reference_image": "/Users/soyanov/Desktop/ULLE/ulle-social-automation/assets/SHTASTIE SUMMER 1.jpg",
+      "print": "ЩАСТИЕ",
+      "price": "34,90 €",
+      "landing": "https://ulle.bg/pages/shtastie-summer",
+      "product_url": "https://ulle.bg/products/tshirt-shtastie-summer",
+      "weight": 3
+    }
+  ],
+
+  "caption_template": {
+    "benefits": [
+      "✅ Произведени в собствения ни цех в Пловдив, България",
+      "✅ 100% Памук с изключителна мекота и издръжливост",
+      "✅ Безплатна доставка с BOXNOW",
+      "✅ Онлайн сайт за поръчки",
+      "✅ Автентичен дизайн",
+      "✅ Безплатна замяна"
+    ],
+    "contact": "При проблем или запитване, моля свържете се с нас на имейл: ullestorebg@gmail.com или на лично съобщение.",
+    "signature": "Поздрави от екипа на Юллѐ"
+  },
+
+  "scenes": [
+    "palm_shadow_wall",
+    "wind_on_line",
+    "poolside_caustics",
+    "golden_hour_backlight",
+    "diagonal_flatlay",
+    "low_angle_sky",
+    "cafe_bokeh",
+    "macro_puff"
+  ],
+
+  "themes": [
+    { "key": "product", "type": "product", "weight": 4 },
+    { "key": "evergreen", "type": "evergreen", "weight": 1 }
+  ],
+  "announcements_file": "announcements.json",
+
+
+  "copy": {
+    "source": "agent",
+    "model": "gpt-4o-mini",
+    "max_headline_chars": 52,
+    "notes": "Bulgarian only. Guarded by the ULLE brand-facts whitelist. Falls back to the curated bank if the API is unavailable."
+  },
+
+  "render": {
+    "engine": "openai",
+    "model": "gpt-image-2",
+    "size": "1024x1536",
+    "quality": "high"
+  },
+
+  "output": { "aspect_ratio": "4:5", "width": 1080, "height": 1350, "format": "png" },
+
+  "publish": {
+    "mode": "approval",
+    "auto": false,
+    "review_channel": "finder"
+  },
+
+  "paths": {
+    "skill_dir": "/Users/soyanov/.claude/skills/ulle-backgrounds",
+    "logo": "assets/ULLE-LOGO.png"
+  }
+}

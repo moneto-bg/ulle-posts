@@ -1,0 +1,11 @@
+# НИКОГА не качвай ключовете
+.env
+
+# Локални/временни неща
+state/custom/
+state/cron.log
+*.compose.html
+*.placeholder.html
+__pycache__/
+*.pyc
+.DS_Store
